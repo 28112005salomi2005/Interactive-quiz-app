@@ -57,7 +57,7 @@ interactive-quiz-app/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/interactive-quiz-app.git
+git clone https://github.com/28112005salomi2005/Interactive-quiz-app.git
 
 
 2. Open the project folder
